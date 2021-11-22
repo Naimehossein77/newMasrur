@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "636413540447",
+    "project_id": "newmasrur-73e86",
+    "storage_bucket": "newmasrur-73e86.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:636413540447:android:377a45374b610dbd4883ea",
+        "android_client_info": {
+          "package_name": "com.example.newmasrur"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "636413540447-2152glmmhrfrtc6hhqjj64vttrci315h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKxoZlu1ILRDlSoTUsXCRr9sJF4dRokOM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "636413540447-2152glmmhrfrtc6hhqjj64vttrci315h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
